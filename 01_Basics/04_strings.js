@@ -1,7 +1,7 @@
 const name = "Siddharth Manjul" // declaring String
 const repoCount = 43
 
-console.log(`Hello, My name is ${name} & my github repo count is ${repoCount}`); // printing using String Interpulation
+console.log(`Hello, My name is ${name} & my github repo count is ${repoCount}`); // printing using String Interpulation (back ticks)
 
 const gameName = new String("Clash-of-Clans") // another way to declare string
 
